@@ -1,4 +1,3 @@
-ReadMe File Content
 # Whiteboard Eraser Robot
 ![image](https://github.com/user-attachments/assets/3a8e6237-4c80-4d55-a5d9-cd29d9f72a1e)
 
