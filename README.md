@@ -52,9 +52,4 @@ The **Whiteboard Eraser Robot** is an autonomous system designed to clean whiteb
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-Special thanks to contributors and open-source projects that made this project possible.
 
