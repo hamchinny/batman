@@ -27,7 +27,6 @@ The **Whiteboard Eraser Robot** is an autonomous system designed to clean whiteb
 - Camera module
 - Battery pack
 - Microcontroller (e.g., Raspberry Pi)
-- Sandbox edge enclosure
 
 ---
 
