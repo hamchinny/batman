@@ -45,9 +45,8 @@ The **Whiteboard Eraser Robot** is an autonomous system designed to clean whiteb
    - Connect the distance sensor to the robot.
    - Open the terminal and run the following command:
      ```bash
-     python3 raider.py
+     python3 gopigo_drive.py
      ```
-   - The `raider.py` script will execute, activating the sensor. When the sensor detects an object, the `gopigo_drive.py` script will run, allowing the robot to move and erase marks on the whiteboard.
 
 ---
 
