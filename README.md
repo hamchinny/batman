@@ -42,11 +42,12 @@ The **Whiteboard Eraser Robot** is an autonomous system designed to clean whiteb
    Open your browser and go to [mygopigo.com](http://mygopigo.com) to control the robot.
 
 4. **Activate Erasing Functionality**  
-   - Connect the distance sensor to the robot.
+   - Click on the side panel of the site and connect the distance sensor to IC2-1.
    - Open the terminal and run the following command:
      ```bash
      python3 gopigo_drive.py
      ```
+   - As the code executes, I observe the whiteboard eraser in action, effectively detecting and removing the mark on the whiteboard with precision.
 
 ---
 
